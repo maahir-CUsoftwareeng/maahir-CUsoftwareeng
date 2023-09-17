@@ -1,4 +1,3 @@
-#Muhammad Maahir Abdul Aziz 101244916
 
 #Any and all import statements
 import lab0_functions
