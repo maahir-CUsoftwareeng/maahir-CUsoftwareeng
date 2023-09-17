@@ -1,5 +1,3 @@
-#Muhammad Maahir Abdul Aziz 101244916
-
 # Function definition for Exercise 2
 def max_min(lst: list)->list:
     """Returns the maximum and minimum value from each four item non-negative integer tuple in the input list "lst" and returns it as a list of tuples in the same order as the list input
